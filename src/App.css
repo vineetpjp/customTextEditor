@@ -36,3 +36,27 @@
     transform: rotate(360deg);
   }
 }
+
+/* -------------------------------------------------------------------------------- */
+
+.code-block,
+div.code-block {
+  color: #90caf9;
+  line-height: 1.2;
+  padding: 3px;
+  margin-left: 4px;
+  background-color: rgba(0, 0, 0, 0.692);
+  font-family: "Andale Mono";
+  font-size: 13px;
+  box-sizing: border-box;
+  white-space: pre-wrap;
+  display: block;
+}
+
+.editors a {
+  color: blue;
+}
+
+.link {
+  background-color: lightblue;
+}
